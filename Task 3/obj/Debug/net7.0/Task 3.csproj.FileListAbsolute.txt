@@ -1,0 +1,15 @@
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.csproj.AssemblyReference.cache
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.AssemblyInfoInputs.cache
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.AssemblyInfo.cs
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\bin\Debug\net7.0\Task 3.exe
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\bin\Debug\net7.0\Task 3.deps.json
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\bin\Debug\net7.0\Task 3.runtimeconfig.json
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\bin\Debug\net7.0\Task 3.dll
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\bin\Debug\net7.0\Task 3.pdb
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.dll
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\refint\Task 3.dll
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.pdb
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\Task 3.genruntimeconfig.cache
+C:\Education\Seminar 8 C# Homework\Seminar-8-C-Homework\Task 3\obj\Debug\net7.0\ref\Task 3.dll
